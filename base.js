@@ -12,5 +12,5 @@ const curry = (f) => {
     return go(f.length, [])
   }
 
-  // export {curry}
+  
 
